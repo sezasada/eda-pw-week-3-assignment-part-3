@@ -39,7 +39,7 @@ for( let x=0; x<supplyChanges.length; x++ ){
      if( supplyChanges[x] < 0) {
          console.log('Removed', supplyChanges[x], 'parts');
      }
- }
+}
 
  
 
